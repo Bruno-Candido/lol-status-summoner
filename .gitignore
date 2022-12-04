@@ -1,4 +1,5 @@
-node_modules/
+Server/node_modules
+Mobile/lolStatus/node_modules/
 .expo/
 dist/
 npm-debug.*
